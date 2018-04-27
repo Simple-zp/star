@@ -1,0 +1,86 @@
+2018-04-27T02:21:37.182Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T02:21:37.191Z - normal: checking language setting...
+2018-04-27T02:21:37.192Z - normal: Language: zh
+2018-04-27T02:21:42.366Z - success: protocol editor-framework registered
+2018-04-27T02:21:42.366Z - success: protocol app registered
+2018-04-27T02:21:42.367Z - success: protocol theme registered
+2018-04-27T02:21:42.367Z - success: protocol packages registered
+2018-04-27T02:21:42.367Z - success: protocol unpack registerred
+2018-04-27T02:21:42.367Z - success: protocol disable-commonjs registerred
+2018-04-27T02:21:42.976Z - normal: connected!
+2018-04-27T02:21:42.980Z - normal: Check project E:\安装包\start_project\start_project
+2018-04-27T02:21:42.983Z - normal: Initializing Cocos2d
+2018-04-27T02:21:44.551Z - normal: Initializing Asset Database
+2018-04-27T02:21:44.684Z - success: protocol uuid registerred
+2018-04-27T02:21:44.685Z - success: protocol db registerred
+2018-04-27T02:21:44.685Z - success: protocol thumbnail registerred
+2018-04-27T02:21:44.685Z - normal: Loading editor/builtin packages
+2018-04-27T02:21:44.897Z - success: anysdk loaded
+2018-04-27T02:21:45.186Z - success: assets loaded
+2018-04-27T02:21:45.189Z - success: builder loaded
+2018-04-27T02:21:45.195Z - success: cocos-analytics loaded
+2018-04-27T02:21:45.200Z - success: console loaded
+2018-04-27T02:21:45.253Z - success: fb-instant-games loaded
+2018-04-27T02:21:45.259Z - success: hierarchy loaded
+2018-04-27T02:21:45.264Z - success: inspector loaded
+2018-04-27T02:21:45.267Z - success: keystore loaded
+2018-04-27T02:21:45.271Z - success: node-library loaded
+2018-04-27T02:21:45.292Z - success: package-asset loaded
+2018-04-27T02:21:45.296Z - success: preferences loaded
+2018-04-27T02:21:45.299Z - success: project-exporter loaded
+2018-04-27T02:21:45.328Z - success: project-importer loaded
+2018-04-27T02:21:45.332Z - success: project-settings loaded
+2018-04-27T02:21:45.336Z - success: ui-kit loaded
+2018-04-27T02:21:45.349Z - success: ui-grid loaded
+2018-04-27T02:21:45.355Z - success: scene loaded
+2018-04-27T02:21:45.358Z - success: sprite-editor loaded
+2018-04-27T02:21:45.364Z - success: store loaded
+2018-04-27T02:21:45.372Z - success: timeline loaded
+2018-04-27T02:21:45.372Z - normal: Loading builtin packages
+2018-04-27T02:21:45.383Z - success: asset-db-debugger loaded
+2018-04-27T02:21:45.387Z - success: code-editor loaded
+2018-04-27T02:21:45.399Z - success: color-picker loaded
+2018-04-27T02:21:45.403Z - success: package-manager loaded
+2018-04-27T02:21:45.411Z - success: sdkbox loaded
+2018-04-27T02:21:45.415Z - success: tester loaded
+2018-04-27T02:21:45.419Z - success: ui-kit-preview-extra loaded
+2018-04-27T02:21:45.422Z - success: ui-kit-preview loaded
+2018-04-27T02:21:45.425Z - success: ui-tree loaded
+2018-04-27T02:21:48.971Z - normal: Initializing project E:\安装包\start_project\start_project
+2018-04-27T02:21:48.978Z - normal: Loading packages
+2018-04-27T02:21:48.986Z - normal: Watching packages
+2018-04-27T02:21:49.020Z - normal: Run Application
+2018-04-27T02:21:56.494Z - success: preview server running at http://localhost:7456
+2018-04-27T02:22:08.546Z - normal: 1.9.0
+2018-04-27T02:22:42.490Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1427
+2018-04-27T02:24:18.250Z - error: Reference "ground" of "Game<Game>" to external scene object "ground" can not be saved in prefab asset.
+    at E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4424
+    at t (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:563)
+    at visitObjTypeProperties (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:614)
+    at E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4187
+    at visitNode (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:197)
+    at Object.PrefabUtils.getDumpableNode (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4163)
+    at Object.PrefabUtils.createPrefabFrom (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4749)
+    at Object.createPrefab (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:15260)
+    at HTMLElement.scene:create-prefab (file:///E:/%E5%AE%89%E8%A3%85%E5%8C%85/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:10470)
+2018-04-27T02:24:18.251Z - error: Reference "player" of "Game<Game>" to external scene object "Player" can not be saved in prefab asset.
+    at E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4424
+    at t (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:563)
+    at visitObjTypeProperties (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:614)
+    at E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4187
+    at visitNode (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:197)
+    at Object.PrefabUtils.getDumpableNode (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4163)
+    at Object.PrefabUtils.createPrefabFrom (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4749)
+    at Object.createPrefab (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:15260)
+    at HTMLElement.scene:create-prefab (file:///E:/%E5%AE%89%E8%A3%85%E5%8C%85/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:10470)
+2018-04-27T02:24:18.251Z - error: Reference "scoreDisplay" of "Game<Game>" to external scene object "score" can not be saved in prefab asset.
+    at E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4424
+    at t (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:563)
+    at visitObjTypeProperties (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:614)
+    at E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4187
+    at visitNode (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:197)
+    at Object.PrefabUtils.getDumpableNode (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4163)
+    at Object.PrefabUtils.createPrefabFrom (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\prefab-utils.js:1:4749)
+    at Object.createPrefab (E:\安装包\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:15260)
+    at HTMLElement.scene:create-prefab (file:///E:/%E5%AE%89%E8%A3%85%E5%8C%85/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:10470)
+2018-04-27T02:52:14.355Z - info: shutdown preview server
